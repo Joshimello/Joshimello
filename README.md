@@ -5,7 +5,7 @@ oh the tasty satisfaction
 <img align="right" alt="GIF" src="https://github.com/joshimello/joshimello/blob/main/uwu.gif?raw=true"/>
 
 **who me:**  
-self taught developer wannabe
+self taught developer wannabe  
 started by exploiting games  
 year one cs student @nthu  
 want a job to learn more
