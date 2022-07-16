@@ -6,9 +6,9 @@ oh the tasty satisfaction
 
 **who me:**  
 self taught developer wannabe  
-started by exploiting games  
-year one cs student @nthu  
-want a job to learn more
+started by exploiting games    
+want a job to learn more  
+2022 cs student @nthu  
 
 **languages me speak:**
 - ENGISH
