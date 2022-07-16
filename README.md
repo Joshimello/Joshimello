@@ -2,14 +2,19 @@
 i eat code for dinner sometimes  
 oh the tasty satisfaction 
 
+**languages me speak:**
+- ENGISH
+- CHINESE
+- HTML
+- CSS
+- JS
+- PYTHON
+
 **me think me can do:**
-![](https://simpleicons.org/icons/instagram.svg)  
-<img height="20" src="https://simpleicons.org/icons/instagram.svg">
-<img height="20" src="https://simpleicons.org/icons/instagram.svg">
-<img height="20" src="https://simpleicons.org/icons/instagram.svg">
-<img height="20" src="https://simpleicons.org/icons/instagram.svg">
-<img height="20" src="https://simpleicons.org/icons/instagram.svg">
-<img height="20" src="https://simpleicons.org/icons/instagram.svg">
+- NODEJS
+- NGINX
+- LINUX
+- MAKE U SMILE :D
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joshimello&layout=compact&theme=dark&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api?username=joshimello&show_icons=true&hide_border=true&theme=dark)
