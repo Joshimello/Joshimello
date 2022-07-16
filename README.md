@@ -3,6 +3,7 @@ i eat code for dinner sometimes
 oh the tasty satisfaction 
 
 **me think me can do:**
+![](https://simpleicons.org/icons/instagram.svg)  
 <img height="20" src="https://simpleicons.org/icons/instagram.svg">
 <img height="20" src="https://simpleicons.org/icons/instagram.svg">
 <img height="20" src="https://simpleicons.org/icons/instagram.svg">
