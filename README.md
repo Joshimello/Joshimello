@@ -15,7 +15,7 @@ oh the tasty satisfaction
 - NGINX
 - LINUX
 - MAKE U SMILE :D  
-
+<img align="right" alt="GIF" src="https://github.com/joshimello/joshimello/blob/master/uwu.gif?raw=true"/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joshimello&layout=compact&theme=dark&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api?username=joshimello&show_icons=true&hide_border=true&theme=dark)  
 ![](https://visitor-badge.glitch.me/badge?page_id=joshimello.joshimello)
