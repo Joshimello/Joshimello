@@ -1,7 +1,8 @@
-<img align="right" alt="GIF" src="https://github.com/joshimello/joshimello/blob/master/uwu.gif?raw=true" width="500" height="500" />  
 # AHOY IM JOSH
 i eat code for dinner sometimes  
 oh the tasty satisfaction 
+
+<img align="right" alt="GIF" src="https://github.com/joshimello/joshimello/blob/master/uwu.gif?raw=true" width="500" height="500" />  
 
 **languages me speak:**
 - ENGISH
