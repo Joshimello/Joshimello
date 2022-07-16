@@ -1,5 +1,5 @@
 # AHOY IM JOSH
-![](https://visitor-badge.glitch.me/badge?page_id=joshimello.joshimello)
+![](https://visitor-badge.glitch.me/badge?page_id=joshimello.joshimello)  
 i eat code for dinner sometimes  
 oh the tasty satisfaction 
 
