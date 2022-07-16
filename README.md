@@ -2,6 +2,8 @@
 i eat code for dinner sometimes  
 oh the tasty satisfaction
 
+[my personal webpage here](neko.chibimello.com)
+
 <img align="right" alt="GIF" src="https://github.com/joshimello/joshimello/blob/main/uwu.gif?raw=true"/>
 
 **who me:**  
