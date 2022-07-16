@@ -1,6 +1,7 @@
 # AHOY IM JOSH
-i eat code for dinner sometimes<br />
-oh the tasty satisfaction<br />
+i eat code for dinner sometimes  
+oh the tasty satisfaction
+
 <img align="right" alt="GIF" src="https://github.com/joshimello/joshimello/blob/main/uwu.gif?raw=true"/>  
 **languages me speak:**
 - ENGISH
