@@ -12,7 +12,7 @@ want a job to learn more
 2022 cs student @nthu  
 
 **languages me speak:**
-- ENGISH
+- ENGLISH
 - CHINESE
 - HTML
 - CSS
