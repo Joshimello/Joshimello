@@ -11,20 +11,6 @@ started by exploiting games
 want a job to learn more  
 2022 cs student @nthu  
 
-**languages me speak:**
-- ENGLISH
-- CHINESE
-- HTML
-- CSS
-- JS
-- PYTHON
-
-**me think me can do:**
-- NODEJS
-- NGINX
-- LINUX
-- MAKE U SMILE :D
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joshimello&layout=compact&theme=dark&hide_border=true)  
 ![](https://github-readme-stats.vercel.app/api?username=joshimello&show_icons=true&hide_border=true&theme=dark)  
 ![](https://visitor-badge.glitch.me/badge?page_id=joshimello.joshimello)
