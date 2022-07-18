@@ -1,11 +1,10 @@
 # AHOY IM JOSH
 i eat code for dinner sometimes  
 oh the tasty satisfaction
-## [my personal webpage here](https://neko.chibimello.com)  
+## [who me:](https://neko.chibimello.com)  
 
 <img align="right" alt="GIF" src="https://github.com/joshimello/joshimello/blob/main/uwu.gif?raw=true"/>
 
-**who me:**  
 self taught developer wannabe  
 started by exploiting games    
 want a job to learn more  
