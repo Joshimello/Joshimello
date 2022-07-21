@@ -10,6 +10,7 @@ oh the tasty satisfaction
 - started by exploiting games    
 - want a job to learn more  
 - 2022 cs student @nthu  
+
 ![](https://visitor-badge.glitch.me/badge?page_id=joshimello.joshimello)
 
 <img alt="GIF" src="https://github.com/joshimello/joshimello/blob/main/uwu.gif?raw=true"/>
