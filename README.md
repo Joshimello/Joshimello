@@ -5,11 +5,12 @@
 i eat code for dinner sometimes  
 oh the tasty satisfaction
 
-### [who me:](https://neko.chibimello.com)  
+### who me:
 - self taught web dev wannabe  
 - started by exploiting games    
 - want a job to learn more  
 - 2022 cs student @nthu  
+- [more here i think](https://neko.chibimello.com)  
 
 ![](https://visitor-badge.glitch.me/badge?page_id=joshimello.joshimello)
 
