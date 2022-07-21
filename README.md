@@ -10,6 +10,5 @@ started by exploiting games
 want a job to learn more  
 2022 cs student @nthu  
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joshimello&layout=compact&theme=dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api?username=joshimello&show_icons=true&hide_border=true&theme=dark)  
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=joshimello)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://visitor-badge.glitch.me/badge?page_id=joshimello.joshimello)
