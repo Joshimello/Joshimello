@@ -1,7 +1,5 @@
 # AHOY IM JOSH
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshimello" />
-
 i eat code for dinner sometimes  
 oh the tasty satisfaction
 
