@@ -2,7 +2,7 @@
 
 i eat code for dinner sometimes  
 random nthu ipth cs student  
-who can center a div  
+i can center a div  
 [nyaa](https://neko.chibimello.com)  
 
 
