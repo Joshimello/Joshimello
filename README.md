@@ -1,7 +1,9 @@
 # AHOY IM JOSH
 
-i eat code for dinner sometimes  
-random nthu ipth cs student play code [nyaa](https://neko.chibimello.com)  
+i eat code for dinner sometimes 
+random nthu ipth cs student  
+who can center a div  
+[nyaa](https://neko.chibimello.com)  
 
 ![](https://visitor-badge.glitch.me/badge?page_id=joshimello.joshimello)
 
