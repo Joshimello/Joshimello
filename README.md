@@ -7,5 +7,6 @@ who can center a div
 
 
 
-<img alt="GIF" src="https://github.com/joshimello/joshimello/blob/main/uwu.gif?raw=true"/>  
+<img alt="GIF" src="https://github.com/joshimello/joshimello/blob/main/uwu.gif?raw=true"/>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=joshimello.joshimello)
