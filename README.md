@@ -3,10 +3,8 @@
 i eat code for dinner sometimes  
 random nthu ipth cs student  
 i can center a div  
-[nyaa](https://neko.chibimello.com)  
+[more here](https://me.chibimello.com)  
 
 
 
 <img alt="GIF" src="https://github.com/joshimello/joshimello/blob/main/uwu.gif?raw=true"/>
-
-![](https://visitor-badge.glitch.me/badge?page_id=joshimello.joshimello)
