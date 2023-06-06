@@ -1,7 +1,7 @@
 # AHOY IM JOSH
 
 i eat code for dinner sometimes  
-random nthu ipth cs student  
+random nthu eecs student  
 i can center a div  
 [more here](https://me.chibimello.com)  
 
