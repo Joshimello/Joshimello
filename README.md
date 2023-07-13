@@ -1,3 +1,5 @@
-<code align="center">
-  <a href="">me</a>
-</code>
+<p align="center">
+  <samp>
+    <a href="">me</a>
+  </samp>
+</p>
