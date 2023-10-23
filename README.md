@@ -1,8 +1,7 @@
-<h4 align="center">
+<p align="center">
   <samp>
-    <a href="https://Joshualean.com" target="_blank">me</a>
+    <a href="https://joshualean.com">me</a> .
+    <a href="https://joshualean.com/stuff">projects</a> .
+    <a href="mailto:joshualeanjw@gmail.com">talks</a>
   </samp>
-  <samp>
-    <a href="mailto:joshualeanjw@gmail.com" target="_blank">email</a>
-  </samp>
-</h4>
+</p>
