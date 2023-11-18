@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="GIF" src="https://github.com/joshimello/joshimello/blob/main/loader.gif?raw=true"/>
+  <img alt="GIF" width="100" src="https://github.com/joshimello/joshimello/blob/main/loader.gif?raw=true"/>
 </p>
 <p align="center">
   <samp>
