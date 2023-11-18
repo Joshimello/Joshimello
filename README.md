@@ -1,4 +1,7 @@
 <p align="center">
+  <img alt="GIF" src="https://github.com/joshimello/joshimello/blob/main/loader.gif?raw=true"/>
+</p>
+<p align="center">
   <samp>
     <a href="https://joshualean.com">about</a> .
     <a href="https://joshualean.com/stuff">projects</a> .
